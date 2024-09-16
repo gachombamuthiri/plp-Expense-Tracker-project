@@ -23,10 +23,6 @@ Expense Manager is simple, stable and feature-rich web app that is designed for 
 
 ![Register Page](docs/images/register.png "Register")
 
-![Dashboard Page](docs/images/dashboard.png "Dashboard")
-
-![Expense List Page](docs/images/all_expenses.png "Expense List")
-
 ## Installation
 
 1. [Python3](https://www.python.org/downloads/) required
